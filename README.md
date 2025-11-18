@@ -1,6 +1,7 @@
 # Calculadora
 
-Este es un proyecto de aplicación de calculadora para Android. La aplicación proporciona una interfaz de usuario sencilla para realizar operaciones aritméticas básicas como suma, resta, multiplicación y división.
+Este es un proyecto de aplicación de calculadora para Android.
+La aplicación proporciona una interfaz de usuario sencilla para realizar operaciones aritméticas básicas como suma, resta, multiplicación y división.
 
 ## Características
 
@@ -20,4 +21,4 @@ Para compilar y ejecutar esta aplicación, necesitarás Android Studio. Sigue es
 
 ## Capturas de Pantalla
 
-![Captura de Pantalla de la Calculadora](app/src/main/res/drawable/caluladora.png)
+![Captura de Pantalla de la Calculadora](images/CapturaCalculadora.png)
